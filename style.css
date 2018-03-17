@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(211, 133, 133);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+    padding: 10%;
+    text-align: center;
+}
+ul li{
+    list-style: none;
+    text-align: center;
+    padding: 15px;
+}
+.btn{
+    border-radius: 30px;
+    background-color: black;
+    font-family: cursive;
+    color: white;
+    padding: 20px;
+    width: 20%;
+}
+#add{
+    width: 30%;
+    height: 40px;;
+}
+
+.remove{
+border-radius: 25px;
+
+}
